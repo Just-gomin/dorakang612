@@ -16,7 +16,7 @@
 ## My Stats
 
 ![dorakang612's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorakang612&theme=vue-dark&line_height=24&show_icons=true)
-[![dorakang612's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorakang612&theme=vue-dark&langs_count=10&layout=compact&card_width=390)](https://github.com/anuraghazra/github-readme-stats)
+[![dorakang612's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorakang612&theme=vue-dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
