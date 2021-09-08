@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Links
-- [my Notion](https://www.notion.so/Become-a-Developer-1a69ddb837484ecdbbb7a5d1af8aba5d)
+- [Profile](https://gorgeous-henley-86a.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3)
 
 ### Who am I?
 좋은 개발자가 되는 것이 목표입니다.
