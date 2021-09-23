@@ -3,7 +3,7 @@
 <br>
 
 ## Please Visit My Notion Profile
-⇨ [Profile_Notion](https://gorgeous-henley-86a.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3)
+⇨ [Profile_Notion](https://dorakang612.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3)
 
 
 ## Who am I?
