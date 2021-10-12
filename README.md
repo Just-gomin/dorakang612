@@ -2,8 +2,10 @@
 
 <br>
 
-## Please Visit My Notion Profile
-⇨ [Profile_Notion](https://dorakang612.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3)
+## Please Visit My Notion
+⇨ [Profile](https://dorakang612.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3)
+
+⇨ [Study Archive](https://dorakang612.notion.site/Become-a-Troubleshooter-1a69ddb837484ecdbbb7a5d1af8aba5d)
 
 
 ## Who am I?
